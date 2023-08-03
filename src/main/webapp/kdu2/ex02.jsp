@@ -8,5 +8,6 @@
 </head>
 <body>
 	kdu2가 작성 : ver1
+	kdu2가 작성 : ver2
 </body>
 </html>
